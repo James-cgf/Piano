@@ -124,7 +124,7 @@ namespace AccessService {
         }
         
         /// <summary>
-        ///   查找类似 server=adminznh.ren;port=3306;user id=user;password=ABSuser123;database=Piano; 的本地化字符串。
+        ///   查找类似 不好意思，这里不开源 | Sorry, it's not open source 的本地化字符串。
         /// </summary>
         internal static string SQLINFO {
             get {

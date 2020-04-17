@@ -157,7 +157,7 @@
     <comment>查询昵称</comment>
   </data>
   <data name="SQLINFO" xml:space="preserve">
-    <value>server=adminznh.ren;port=3306;user id=user;password=ABSuser123;database=Piano;</value>
+    <value>不好意思，这里不开源 | Sorry, it's not open source</value>
     <comment>连接服务器</comment>
   </data>
   <data name="UPDATEPWD" xml:space="preserve">
