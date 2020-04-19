@@ -3,4 +3,4 @@
 官网：[CACode官网](http://www.adminznh.ren "CACode官网")  
 软件介绍：[Piano官网](http://www.adminznh.ren/Piano/Piano.html "Piano.html")  
 软件预览图：  
-![Piano](/PianoUI.png)  
+![Piano](PianoUI.png)  
