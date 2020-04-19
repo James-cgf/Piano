@@ -1,0 +1,9 @@
+F:\Piano\PianoLoad\bin\Debug\PianoLoad.exe.config
+F:\Piano\PianoLoad\bin\Debug\PianoLoad.exe
+F:\Piano\PianoLoad\bin\Debug\PianoLoad.pdb
+F:\Piano\PianoLoad\obj\Debug\PianoLoad.GuideForm.resources
+F:\Piano\PianoLoad\obj\Debug\PianoLoad.Properties.Resources.resources
+F:\Piano\PianoLoad\obj\Debug\PianoLoad.csproj.GenerateResource.cache
+F:\Piano\PianoLoad\obj\Debug\PianoLoad.exe
+F:\Piano\PianoLoad\obj\Debug\PianoLoad.pdb
+F:\Piano\PianoLoad\obj\Debug\PianoLoad.csprojAssemblyReference.cache

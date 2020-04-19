@@ -26,9 +26,6 @@ namespace Middleware {
                 case ErrorENUM.UNLNOWNERROR:
                     notice = MIDDLEENUM.未知错误;
                     break;
-                case ErrorENUM.EMAILERROR:
-                    notice = MIDDLEENUM.发送邮件错误;
-                    break;
                 case ErrorENUM.OK:
                     notice = MIDDLEENUM.登录成功;
                     break;
